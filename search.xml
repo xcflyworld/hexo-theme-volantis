@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>数学建模软件matlab分享</title>
+    <url>/2020/08/05/shuxuejianmoruanjianfenxiang/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉，这个密码看着不太对，请再试试。" data-whm="抱歉，这个文章不能被纠正，不过您还是能看看解密后的内容。">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">输入密码，查看文章</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="e7ccda33c4d40af7407ec3b805df7332109654107feb92ad3f9c23126de171f7">0206a95823fd5056358b4dabc0700e9ea37afd4529bc76f54e740e25840ec15269ff55917bd2402b17419f0780d793d714bb4ebf53ba99cad04d88980d8caedae538303914cad6fa26e25bc53cf80f100106cb9106574d56972c77908ed9b932ec3ec6e6eb7ad61b7542bb94a47cfa6c957cad6069a5414b28bb8b378b91e8a661ffe275b1425658c2b3a9767907b4645acabddc014b1b27ebbc9f916f8d30f6db8e1179f2395249ee806d38e016811d4ed802a363b0042ea8301648918d358c1c5a4b6e367778536ac306d18fe7e5c295aaf92965cc03a6562cbae5b13e4f876ffa59b309452d9c1863a4a38956c8b8e64e69b874e6a9978f6d56514172e318f1abb9dfefb8a25e0ebb30d423ad65e9baf8013d33ba04819532b49627d7b0ae92162d7a4fe02702d4e4954bb12662118052be77ba52be1c02c17d2675b238af52faddb2f77cbbf32250ba0f0cd78a5de9a5eddfc31772323e021af94939eb67f78a432fa5322b011351bcaa14e8c46336305bbd2b74ed679ed6d0ae1601929f040af850d35272c030a748bab81f883a5417b49d54b53b114956c135286f8055df431b1098765fd82bf476dec7cad86afc13ba113ecbb0afd63c31f6965567eb05c332abaf47872427f5f8c36f0bcca07a3333f7be490ab22348ce9de234dfe04b04d0f1db7f432e34120ca50c1da4c500742429779ae5240ae301fbbfc5f19ecc385e636d912dfa9bfe8aebbcb4f5c9c7d8527b61367dbc7ac71136c53f4394d8b3676cda4d7862370fb31af644b335110a69a7cc3f1812f876db5ef16858ba77e77485ba48d9ed0d7eecd86fab61d7c9d5cc725a7816887d1b77c36555168b1eedacc3101b99047ec9d8e2575bedefdad19d9a83364cbb61c04ac6fce0b1e03f6a103c0e1109656083a0276b92bb17e5cbfe9f1dfe3ecb9a20b4a2b9fbab4bd47c86ce29400e85c4dd31ae62ff411f79da47535b5f458fe1a6a04655fe5b68c590476c115d575f1b0a6c64d43247da87985d0e007dc6c7b2176a7e1cae310532cc29d846023daed969bcdd037dba555d242a676df5e7642c2505cbb1270611070718391a410a28ee5e9c56bc5b4b8c7a543771319762b76a372246348a80223c56b3a8ca9534bfb24b80484b78673e4aa0bbf906c6b23c66290667ac35647353d738ea86be76710679c211394fbf5d2f800e54c59aa51eca04c7f95795555e2d03fe065f32d9cbe958b038b14166ad2fbc02d4d3e771edfae84dac5d3f71b095454238d530c02ef4a2f6c133690d61a3b5dc9cdc7c902c7daeca0af3fe04b1c51d071780232656e87f0a3d8a8ed530c1a77a7c8f6d6e1dd1095128d37152f2e910b1ec567024d05eb618f13a2d7ce8f309434e4bb4864883ca1bb125a61ae920b03e179acaa0a49d94512f60b765c983a3f89eb2a00df245e8735d32487f9da4061bda3155848246e6b4372661661e0cb833297218217bc436766df6fd53611628943335b1df50c35bee404ec4d5b0ef4647eda14688e85195a725420294e185da74ae5b9a0784498bf0396bd582bfacd7b4cb6edaf3f8e436561aa68987f286773af8b29e5fbe1c2c7c1c8cf7c1a3188de0892490790004bd0b765509d255da922b822ed0b5273019297bc3f00f20e6de4e23a8dae7162d7e0824df571e2fa2d1c0c197f63bd85aa473c94f59cdecca6e3de917334470da25d9dab6dc1fc4175e8c2b6c33a6d48b252d138bb8abb0edb7713cbb72542ce0a11690b802bb53d08ee85ebf485ef629b43f27978dbbc2a5bed6a36cd35aae0b979754c07b0cd26c534fa04f3e79a59d80b195f9f4d9236ad5fe129c46ecdbfbbd78ccb578b4b01821f1e665d3e10f030aa2307c5100a781a090da08152e3b014d0ff48d479902650ef85d473d6b3ae37d8597988d194de451bce8c340ba35e8a452d6e890ff3e33657e56e96494cc9fcb8e2a8d3a5fdb2019f449afd9a32f8e1dae8bafc374798a03d412deb3531f6d3803951ca34f7b96816da70ba3a79d9c987ce40683d143cf0fed82d44a36c0c65c343999ad66eefb841f505665a4ead057ede8a9e2a531efce05b4958f1d993c8fe1239815eb7d409828939822ffaa348272239844407dbdbfb6b6125aa8ee7c83ba026ba92d1311cfeebde91b384882394c58e2ae6964de9a0cd7e93a7c12ab4f92b2a8852907759aefe162bdffac356724dbe0be7f46dbfb033de25e848cd60ec776982bf067384a516ac2e9eac76e269e1b11c3a747b613f04a65166547e3c259575de0c19baea8731e54803e8e9ae88aaf9068b8b223be980d3fbd908a2f4297b87b15f4bb8bf39e1de6598b6d055054870ec713a57cca60a8cade170fddc9cd4338a31e0455ebd1c88e2397a50c8c4b58c5df6d247a5c7592dd85360d861514db0349f7231b1bb6178cbd09ca7885a52689e948f3d36c06c9579687e19ad64430a48a94f7875327d1f18b9b413930056181d1af6ace015a53b87005914f779eb004d356ae1fc9406a02803cfdc84169bf934702b84075069321f18e11ffc3763f6c90f8e490452004744f5eea4b129e696621008bc17712866610466727cec90c8d0e362ba5fc80462d8a5f03b60ff6b78dafdbc4e7ac73149a1a8bba06f06dd0b534686b03d9125f8439bbd7c7c76d8fc12492cb2c707a2be916ea884f8a5a929f06ab11822cc182127d5a3656b88a7d386f10d36158d5752269c08f14dbee8b0eef779e71de11a8cdf8cd62fd4bfaed33db75bb53a975b85ad29d6c5cc66a6bf847d6f4ce444063b77d470ef8db9bc086ac9619275173fbc18236496949b4282f0c921d90b8a207c6bac0f2531eac797ccd94af50ce230804859cfe5899f34392fa3be5c6e7618a7ed7efb9b5ac14eb2c7f6c24a3826049f5ab816ed3cbfcd41a0b35e08f84843a54d9b3a7dcce17f1e5eb996eae489b4a5259f5be8dc2acd3ebf0926bb5c5ff799cd5997cc565e2e77ce941edbae4e96b4204ebdc0d29ad876f5caa7ccc188fae772424257d35e973aeaa3fe9c2d3ecc622ccd47e3f23bb33b2f6fce945e3bf31f234b46fe7555c6c62b5035cab12370007e8f75454965d356047d97b568ef5020b2ef32f5de5e8ab2134fb9d3fac3aed51ebc2f39bf2f8e69ee0e543c214095c5f0f254c8241307d6559479efb60fe7231d3ed3c92425cf8bdde4c8f6a982b12a067376b8155131b87f5a94cab27edcf1c2cbd7b66f648a1b50cd5ade00450b12362b28c96ab2cff0c49ece441ca920123209951b77c2d7e87a7bd7001affc659747d14307b51e3845b6c9106a2ce0f321e300493d627bb1e2e67857bc2e62553bb8d1e3e1d4fe8009faf4513a1a25acd233f21e099ff59f6353a9aa71c327ffec7375ccb245f26fa0731bf9b0cf4d39aec3d690f2f9e8aec747c24e3c04a6dc0a64daddc143f9326af316c7a3522209607afcbe14010c8d24d56fe746b9ef8be34f9c53258f4e84b222def96269726ef85d6fd12e0ae9fa21a7b0fb6859c9736a1c75b74fcd55b5ead3001f1c24a7eeba4602ecd3dd648e743f5d3b991c5e1bbd5091f13d4eb9568c2f11688c6b27ddcfe47a33e88211d6d8e21fe56ee1c9e6ef895100e47a02dcd5b658c34230692babc162dc1bcb9e5be93f574be180f05646ddf235c4237a75eece60c75ff48818948b91cb87f4904e100382db95bcfb64565d01b81c595fac1016b210509e3f6e0fdeef791eaf55aeb80cca09cef9fc97d987eca20516be0d887476e2f4fcc758bc54d6304bd7ddc34e14b819db49bf95d570600471389bde18531151e6c13dbc1dde1cdaf95786fca7ebca5cb9ba51247992d4ec74e37a6093f3213308c3b0099770e4f12c14696a12da4b8862b4d8ae0be4cbb84414356474b57682c39b46995a1b13cc9bbcc958aaef24adc821d433c8e8d8b6d15b22f432abf1b07a9d60620cea8ae744c3ffdeb443378b96f1621cd069470b9f203ac2b147659a5c4eb856522441352a08b0ef5b9b3e23faf8f388a2573879bdc85a539b1a2717ef90570ae06bf793b5667e8651ac67f95533dafafbcf7cbeed49a377746ed6f982e748be5e2d2ec27fc0c8c4573d7bee724874bfbffdf991cfd6161ed89a90ef55ba27726113e0a8ff10265b3c16da3577efbc36e239ab1b27f25058486326fb25d4202b3cec50042e7806b976d7ce352e2f76d593ca0ccaa8eb3048114f1bd4b63421ab950ad314ef881451a33fca8a4de887178a591f42249f90ae1a93c8e428997298b50c7c1443bcd2b885c4c269336d93e595ef27944c48c56601863ca8656b9957d7a2a2fb124cf177dc2f44237ee5fcd233abcb01d646eb5480d20af04afa7cc0e0f975ad0d69356d31790aada970236f44822a910fbfcad28393aaefccf42e2f0018e6e92c79ea196b654057129db2dac381e163affc00dc58cb043f98e251f89a0d7e463cde3d6cd933f973abcbccc21cfff2d64cb39a59ea96a0d68a48312ce0aa4bba986288b07b6d763b6f626e3d22f1e7a3ddface4228ccc878db36e21488a98cc275dc999ae2a0a7c6249c3f24af039e4edde988542b4ed6c904fa9adeece1780a7ba02b41081ebd2d8e9421cdbad40a602d58b742f8950ad7ad45c6ed2af54bdfcc6dd869ddcec3ade67bf3ffa8290cd4a19e5e04f114003a82ad97570d32ad3f8120ef5915f0ddc9e82f0e7c185d80c84f169fe867dc7611191347669af6866c8c99ecb5b47a5ec430675b0d5e98a82784d818f9745360468987f6348c5cef9638c1296708377415e4e48fa27d405099f2ac421f746a314f54ae7ffd55aa9ddcd7486e38dc24edb2f93477c3263e589cec90a56cf70fe6ed3c8b3c1d57066e3d20a91e5a18f7582ca5fef9bb443087d2edff5aa8d0fb3fa48324466b03f1e8109651392b8d89ade71bb7e3cefa5e15530d1c08f7f5be37bd38377a1a2b4f5e41e10772e4a0c0c310180162f26ca79a222fc1a7b7e255a4cd9535e77bd349d47cd94c73616359248347e59183ecaef2159157a3360c4eedbfa24cb1f89290fa5bbaf531d401a29802e479f5192d53f245e919a252104bafcc393584f985d1739e1e33999ae1ff96f7f2e96bbec4a23e8382895474bd24785fad04c686c53b0197618c351d370493f55b343b1730612ef731ac449dd178a86e9d4c8a8e35c8ae41ad0efce0f546e8c4f5ec5ca8cc05d3ee3d77e06577146339a2e96815ca2f8d80338ca8f2cbbfdf2499f43dcc7c3f9cfee0c201da92c3e77ee97737f4871da64cff2237e715fdc84fbe74daafad16dd03674ff041148aa9c91be9a8f0a4359a1b60c2508ca1c77d94d57f4e7c921fd5e9c598878d17d8a2dc80b6b7dca060c249c1644a182a30b2483447057d3d7dd803267a7ef062469b705497c157f3d40575b95baa0d6661c67d34ccb6746c78655cb8a338372c66146a6fcd8bb361969faa281c05dd41f785a55e16b3ea851664d2f3b90b9283d7568d824ea761b03d34b7aaeaca763ca3a0033485bdd50ce9e2f1360df3b270ae0aeb1bd4b0714a04b5347eade8b71419462f1e09c83119a64bdff59ed82adfc916f6802a202bc24dbeffb0d72cb57a19d78577f8df791b584568ef67a4b03bc673cd48c1726dfa9a6ee04783fd49fb2ddd0c721907a07d4eecbf1f4cb0ad6207437bf470aa1225071c6a08005a7517c17413fcca8c8e28243351cc686d2e602b7fe85385bc3d41dda48cd28cfb20626bb2fce22a7403108cce1c51eb375ccee22e097e8a293e0ff216cede0f878349e09e9dd8930ea4d5038cef09dc0796e39a056759362fed2f39f7fa0199fc898b75bd79cdc5d05e3e5b9e89fcb47881a62a605dccbf9d150c47e1cc95a7f8bdadfeebde61d2d14748a95718f3783d99a2de75e8d9a000e96c05572d5b6cc75d22569be373ea11eda90dccdc48838f833a31016fe8ed0167ba777f3352f44ef18eea45776071abb0957d5f05f78152e2a8f94c85fef921e9a69dc1315cdc22851ee199c1e6ca581a9c440c7da1b102f2c9e2385705f828050f2d5d1356e157a6a10ae5a64393a87fed3f30463d0af35b0b08ad29030a00afc4a5d5f104f306c80d6f0dc4faccc757629e57fa89175d1ee02f8a8c2e266b7f358d27bfb32e20cbb7d866a421e1afc43075f1f71b1e550d430415cac09a022d25f4483fd8f1d862b6f30d00befca45f39e67a63afd8389b64803de95ae859822ff77c7d122837b6d5096d2223b225841b77ae8faa287d4f70086b9773fc68f9107ee0f29e5f377d0cf3bc3c18dcc407997e71ca29a989c86b7c9fcd73b3cf06c544ed46bc729c2d0f0b673c110e2eabff8bbd516a9764bab46d380877eb0d633c753080c823725a8d6c77b5517d6ddaa5dc912a89b48209b3e0cf1d71f5a23495ec4c62972661ba82eb8097839c6aa3f800cb25749523c68780faa86c5920e297a922313908f4728119a17642a2b964888f12f17492e9ffccf41310e68975ebb8e19e69b6655abd99471d3699c7c71c629dd4fa8ede2c34e24708f5bcf68ce0efbe26207b7f4eb582a8d2a66d339025b8a58969cc51655dd3afa9611c9ac84ff3ff2b010a1c25e92509fbfbe222428331c3e40099726170f31811255f75e19165ece4cd73e31f3cb4717776c57b5ed875493f4b73daa65052c5d811dcf798545a0ec2e1dd3705976f1f7ac131005f6e2aba1801105e6f143d19d77d1da4b653eda814aad3011e34bb872629cf4119c361da7d67716c5ffa949018f16b0a90f842800dca697f79d83fbaedf3a4e102a926eacde1100a394e786566fc8c348a42e8a35f74bce61c2d2fefd1332eb08818f36301727580d2084c0a8045ea35c9a71a4154d359b67c29f6a396a2e963fd9716c49e3b408573180752987f470375661aa25026e6b2807402237f97cf5f3e53389cd24d3aac49e5df50f7c7d1490f2be6089e8f82545bde9c899a428e8aeca656878abac0c8e475f5a162ab1388890123a8ab0d2046a259109706bbe12a6dd99b63497c24967669879732d27b1c7c1d9e4a7fde435525ff8134a1c5e66ac6395e765dadace4ed942e0d6be3ec1cc5685329b2b779eb385332382b5a78a7e77815688c1e9693e528417f49de867ac6775ea6e8698c26cfc6eef662dd14b762f3d69fc81e731b93cce80ef43988d7df5650f811623b7ee89b344f5785f00d9d89bb131655c1f3976dfd4e121ac71dae89fdb18deddceafd7df1bf6daccb768a3b7588bf9ca2882357bc10125a72b76d809d144d2fac920f99969b00f7</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+  </entry>
+  <entry>
+    <title>hexo将博客部署到腾讯云服务器</title>
+    <url>/2020/08/05/hexoubuntujiangbokebushudaotengxunyunfuwuqi/</url>
+    <content><![CDATA[<div class="note"><p>文章摘要</p></div>
+
+<h2 id="将hexo个人博客部署到个人云服务器"><a href="#将hexo个人博客部署到个人云服务器" class="headerlink" title="将hexo个人博客部署到个人云服务器"></a>将hexo个人博客部署到个人云服务器</h2><p> 很多朋友们，将博客搭建到了github，有感觉不太友好，访问速度实在太慢，那么就会想到，腾讯云新人福利还是蛮优惠的，想来搞一波，；练练手。好吧废话不多说，开整，我通过把我的经验分享给大家，我尽量写得简洁，长话短说，希望大家少踩坑</p>
+<a id="more"></a>
+
+<h3 id="hexo搭建到本地的过程，这里我就略过了，详细请看这位博主的他写的很详细了"><a href="#hexo搭建到本地的过程，这里我就略过了，详细请看这位博主的他写的很详细了" class="headerlink" title="hexo搭建到本地的过程，这里我就略过了，详细请看这位博主的他写的很详细了"></a>hexo搭建到本地的过程，这里我就略过了，详细请看这位博主的他写的很详细了</h3><p><a href="https://sunhwee.com/posts/6e8839eb.html" target="_blank" rel="noopener external nofollow noreferrer">点击这里</a></p>
+<h3 id="获取体验产品-服务器（这个根据你自己的爱好，阿里云，腾讯云，华为云等等都OK"><a href="#获取体验产品-服务器（这个根据你自己的爱好，阿里云，腾讯云，华为云等等都OK" class="headerlink" title="获取体验产品--服务器（这个根据你自己的爱好，阿里云，腾讯云，华为云等等都OK)"></a>获取体验产品--服务器（这个根据你自己的爱好，阿里云，腾讯云，华为云等等都OK)</h3><p><img src="https://xckadpym.top/tuchuang/hexo/1.png" alt="大概就是这个样子"></p>
+<h4 id="域名购买，申请，备案这个取决于你自己"><a href="#域名购买，申请，备案这个取决于你自己" class="headerlink" title="域名购买，申请，备案这个取决于你自己"></a>域名购买，申请，备案这个取决于你自己</h4><p><img src="https://xckadpym.top/tuchuang/hexo/2.png" alt="大概就是这个样子"></p>
+<h3 id="下面就是重点了"><a href="#下面就是重点了" class="headerlink" title="下面就是重点了"></a>下面就是重点了</h3><h4 id="1-我们有了服务器后，就要通过ssh服务连接，让后操作，我们第一步就弄好吧，"><a href="#1-我们有了服务器后，就要通过ssh服务连接，让后操作，我们第一步就弄好吧，" class="headerlink" title="1.我们有了服务器后，就要通过ssh服务连接，让后操作，我们第一步就弄好吧，"></a>1.我们有了服务器后，就要通过ssh服务连接，让后操作，我们第一步就弄好吧，</h4><p>我一般喜欢 dibian， Ubuntu</p>
+<h4 id="2-修改为root权限"><a href="#2-修改为root权限" class="headerlink" title="2.修改为root权限"></a>2.修改为root权限</h4><pre><code>sudo passwd root</code></pre>
+<p>输入密码，可以和 ubuntu 密码一致，也可以修改 (密码会让你输入两次)</p>
+<h4 id="修改-ssh-配置"><a href="#修改-ssh-配置" class="headerlink" title="修改 ssh 配置"></a>修改 ssh 配置</h4><pre><code>sudo vi /etc/ssh/sshd_config</code></pre>
+<h4 id="修改-PermitRootLogin"><a href="#修改-PermitRootLogin" class="headerlink" title="修改 PermitRootLogin"></a>修改 PermitRootLogin</h4><p> 进入 ssh 配置界面后找到PermitRootLogin，将它后面改为yes，保存 (按i进入编辑模式，编辑完esc退出，:wq)</p>
+<h4 id="重启-ssh-服务"><a href="#重启-ssh-服务" class="headerlink" title="重启 ssh 服务"></a>重启 ssh 服务</h4><pre><code> sudo service ssh restart</code></pre>
+<h3 id="四-下面就是用xshell，或者finalshell-用root登陆即可"><a href="#四-下面就是用xshell，或者finalshell-用root登陆即可" class="headerlink" title="四.下面就是用xshell，或者finalshell 用root登陆即可"></a>四.下面就是用xshell，或者finalshell 用root登陆即可</h3><p><img src="https://xckadpym.top/tuchuang/hexo/01.png" alt="大概就是这个样子"></p>
+<h3 id="服务器配置"><a href="#服务器配置" class="headerlink" title="服务器配置"></a>服务器配置</h3><h4 id="hexo安装"><a href="#hexo安装" class="headerlink" title="hexo安装"></a>hexo安装</h4><pre><code>sudo apt-get install npm
+npm install hexo-cli hexo-server -g</code></pre>
+<h4 id="git配置"><a href="#git配置" class="headerlink" title="git配置"></a>git配置</h4><p>1.安装git </p>
+<pre><code>sudo apt-get install git</code></pre>
+<p>2.安装nginx</p>
+<pre><code>apt-get update
+apt-get install git nginx -y</code></pre>
+<p>3.创建git仓库</p>
+<pre><code>sudo  mkdir /var/www/git</code></pre>
+<p>4.修改权限：</p>
+<pre><code>chown -R $USER:$USER /var/www/git
+chmod -R 755 /var/www/git</code></pre>
+<p>创建远程 Git 仓库：(当然这个看你，我是建在nginx站点目录，/var/www/hexo,你也可以建在/home文件夹下，都可以)</p>
+<pre><code>cd /var/www/git</code></pre>
+<p>git init --bare {自定义仓库名name}.git</p>
+<pre><code>git init --bare myblog.git</code></pre>
+<h4 id="创建-Git-钩子（hooks"><a href="#创建-Git-钩子（hooks" class="headerlink" title="创建 Git 钩子（hooks)"></a>创建 Git 钩子（hooks)</h4><p>/var/www/git目录下创建一个新的钩子文件：</p>
+<pre><code>vim /var/www/git/myblog.git/hooks/post-receive</code></pre>
+<p>打开文件后，加入下面的代码：</p>
+<pre><code>git --work-tree=/var/www/git --git-dir=/var/www/git/myblog.git checkout -f</code></pre>
+<p>将文件保存后，赋予该文件可执行权限：</p>
+<pre><code>chmod +x /var/www/git/myblog.git/hooks/post-receive</code></pre>
+<h4 id="配置-Nginx-托管文件目录"><a href="#配置-Nginx-托管文件目录" class="headerlink" title="配置 Nginx 托管文件目录"></a>配置 Nginx 托管文件目录</h4><pre><code>mkdir -p /var/www/hexo
+
+chown -R $USER:$USER /var/www/hexo
+
+chmod -R 755 /var/www/hexo</code></pre>
+<p>修改 Nginx 的 default 文件使得 root 指向刚刚创建的 /var/www/hexo目录：</p>
+<pre><code>vim /etc/nginx/sites-available/default</code></pre>
+<p>root /var/www/html 改成 /var/www/hexo</p>
+<p><img src="https://xckadpym.top/tuchuang/hexo/02.png" alt="我的配置截图"></p>
+<p>最后重启 nginx 服务:</p>
+<pre><code>service nginx restart</code></pre>
+<h3 id="使用-Git-部署本地-Hexo-到远端服务器"><a href="#使用-Git-部署本地-Hexo-到远端服务器" class="headerlink" title="使用 Git 部署本地 Hexo 到远端服务器"></a>使用 Git 部署本地 Hexo 到远端服务器</h3><p>打开你的站点配置文件_config.yml</p>
+<p>修改 URL和repo 就可以了<br>将你的repo改成<br>repo: root@{你的服务器ip地址}:/var/www/git/myblog.git<br><img src="https://xckadpym.top/tuchuang/hexo/03.png" alt="我的配置截图"></p>
+<p>最后 ，hexo clean，hexo g ,  hexo d 上传即可，</p>
+<p>当然很多人会在这一步失败，</p>
+<p>SSH连接报错:Permission denied, please try again.</p>
+<p>这是因为你没有开启root权限，</p>
+<p>还有就是 要将密钥添加到 git 用户下：</p>
+<p>反正一步一步来，就不会出错，我这里就不详细举例了</p>
+<p>  这差不多就打工搞成了</p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>C语言知识总结</title>
+    <url>/2020/08/16/cyuyanzhishizongjie/</url>
+    <content><![CDATA[<div class="note"><p>文章摘要</p></div>
+<h2 id="关于C语言，后面会持续更新，主要为了方便整理"><a href="#关于C语言，后面会持续更新，主要为了方便整理" class="headerlink" title="关于C语言，后面会持续更新，主要为了方便整理"></a>关于C语言，后面会持续更新，主要为了方便整理</h2><h3 id="主要涉及C语言-指针-结构体-共用体-项目-C语言二级真题练习这几大模块"><a href="#主要涉及C语言-指针-结构体-共用体-项目-C语言二级真题练习这几大模块" class="headerlink" title="主要涉及C语言  指针 结构体  共用体 项目 C语言二级真题练习这几大模块"></a>主要涉及C语言  指针 结构体  共用体 项目 C语言二级真题练习这几大模块</h3> <a id="more"></a>
+
+<h3 id="一-C语言指针"><a href="#一-C语言指针" class="headerlink" title="一.C语言指针"></a>一.C语言指针</h3><h4 id="指针基本介绍"><a href="#指针基本介绍" class="headerlink" title="指针基本介绍"></a>指针基本介绍</h4><p>1.指针是C语言的精华，也是C语言的难点。</p>
+<p>2.指针，也就是内存的地址;所谓指针变量，也就是保存了内存地址的变量。</p>
+<p>3.获取变量的地址，用&amp;，比如:int num=1,获取num的地址:&amp;num </p>
+<p>4.指针类型，指针变量存的是一个地址，这个地址指向的空间存的才是值<br> 比如:int *ptr = &num; ptr 就是指向 int 类型的指针变量, 即 ptr 是 int * 类型。</p>
+<p> 5.获取指针类型所指向的值，使用: * (取值符号)，比如:int * ptr,使用 *ptr获取ptr指向的值</p>
+<h4 id="什么是指针"><a href="#什么是指针" class="headerlink" title="什么是指针"></a>什么是指针</h4><p> 指针是一个变量，其值为另一个变量的地址(前示意图已经说明)，即，内存位置的直接地址。就像其他变量或<br> 常量一样，在使用指针存储其他变量地址之前，对其进行声明。指针变量声明的一般形式为:</p>
+<pre class="line-numbers language-c" data-language="c"><code class="language-c">int *ip;       &#x2F;* 一个整型的指针 *&#x2F;
+double *dp;    &#x2F;* 一个 double 型的指针 *&#x2F;
+float *fp      &#x2F;* 一个浮点型的指针 *&#x2F;
+char *ch;      &#x2F;* 一个字符型的指针 *&#x2F;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+
+<p>指针内存图<br><img src="https://xckadpym.top/tuchuang/c/test01.png"></p>
+<h4 id="指针的算术运算"><a href="#指针的算术运算" class="headerlink" title="指针的算术运算"></a>指针的算术运算</h4><p>指针是一个用数值表示的地址。可以对指针执行算术运算。可以对指针进行四种算术运算:++、--、+、-。</p>
+<h4 id="指针递增操作"><a href="#指针递增操作" class="headerlink" title="指针递增操作(++)"></a>指针递增操作(++)</h4><h3 id="案例演示"><a href="#案例演示" class="headerlink" title="案例演示"></a>案例演示</h3><pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt;
+const int MAX &#x3D; 3;&#x2F;&#x2F;常量 
+int main () &#123;
+int var[] &#x3D; &#123;10, 100, 200&#125;; &#x2F;&#x2F; int 数组 
+int i, *ptr; &#x2F;&#x2F; ptr 是一个 int*指针
+ptr &#x3D; var; &#x2F;&#x2F; ptr 指向了 var 数组的首地址 
+for ( i &#x3D; 0; i &lt; MAX; i++) &#123;
+printf(&quot;var[%d] 地址&#x3D; %p \n&quot;, i, ptr );
+printf(&quot;存储值:var[%d] &#x3D; %d\n&quot;, i, *ptr );
+ptr++;&#x2F;&#x2F; ptr &#x3D; ptr + 1(1 个 int 字节数); ptr 存放值+4 字节(int)
+&#125;
+getchar();
+return 0;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<p>内存示意图<br><img src="https://xckadpym.top/tuchuang/c/ptr02.png"></p>
+<p>总结：</p>
+<ul>
+<li>数组在内存中是连续分布的</li>
+<li>当对指针进行++时，指针会按照它指向的数据类型字节数大小增加，比如 int * 指针，每++ ， 就增加 4 个字<h4 id="指针递减操作"><a href="#指针递减操作" class="headerlink" title="指针递减操作(--)"></a>指针递减操作(--)</h4></li>
+</ul>
+<h3 id="案例演示-1"><a href="#案例演示-1" class="headerlink" title="案例演示"></a>案例演示</h3> <pre class="line-numbers language-c" data-language="c"><code class="language-c">include &lt;stdio.h&gt;
+const int MAX &#x3D; 3; 
+int main () &#123;
+int var[] &#x3D; &#123;10, 100, 200&#125;;
+int i, *ptr;  &#x2F;* 指针中最后一个元素的地址 *&#x2F;
+ptr &#x3D; &amp;var[MAX-1]; &#x2F;&#x2F; &amp;var[2] 
+for(i&#x3D;MAX;i&gt;0;i--)&#123;&#x2F;&#x2F; 反向遍历
+printf(&quot;ptr 存放的地址&#x3D;%p\n&quot;, ptr); 
+printf(&quot;存储值:var[%d] &#x3D; %d\n&quot;, i-1, *ptr );
+ptr--;   &#x2F;&#x2F; ptr &#x3D; ptr - 1(1 个 int 的字节数 [4 个字节]) 
+&#125;
+getchar();
+return 0; 
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<p>小结：</p>
+<ul>
+<li>可以对指针按照指定的字节数大小进行 + 或者 – 的操作，可以快速定位你要的地址</li>
+</ul>
+<h4 id="指针的比较"><a href="#指针的比较" class="headerlink" title="指针的比较"></a>指针的比较</h4><p>指针可以用关系运算符进行比较，如 ==、&lt; &lt;= 和 &gt; &gt;=。如果 p1 和 p2 指向两个变量，比如同一个数组中<br>的不同元素，则可对 p1 和 p2 进行大小比较, 看下面代码，说明输出什么？</p>
+<ul>
+<li>案例1</li>
+</ul>
+<pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt;
+int main () &#123;
+int var[] &#x3D; &#123;10, 100, 200&#125;;
+int *ptr;
+ptr &#x3D; var;&#x2F;&#x2F;ptr 指向 var 首地址(第一个元素) 
+&#x2F;&#x2F;if(ptr &#x3D;&#x3D; var[0]) &#123;&#x2F;&#x2F;错误,类型不一样 
+(int *) 和 (int )
+&#x2F;&#x2F; printf(&quot;ok1&quot;); 
+&#125;
+if(ptr &#x3D;&#x3D; &amp;var[0]) &#123; &#x2F;&#x2F; 可以 
+printf(&quot;\nok2&quot;); &#x2F;&#x2F;输出
+&#125;
+if(ptr &#x3D;&#x3D; var) &#123; &#x2F;&#x2F;可以
+printf(&quot;\nok3&quot;); &#x2F;&#x2F;输出 
+&#125;
+if(ptr &gt;&#x3D; &amp;var[1]) &#123; &#x2F;&#x2F;可以比较,但是返回 false 
+printf(&quot;\nok4&quot;);&#x2F;&#x2F;不会输出
+&#125;
+getchar(); 
+return 0; 
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<ul>
+<li>案例2</li>
+</ul>
+<pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt; 
+const int MAX &#x3D; 3;
+int main () &#123;
+int var[] &#x3D; &#123;10, 100, 200&#125;;
+int i, *ptr;
+ptr &#x3D; var;
+i &#x3D; 0;
+while ( ptr &lt;&#x3D; &amp;var[MAX - 2] )&#x2F;&#x2F;&amp;var[1]
+&#123;
+printf(&quot;Address of var[%d] &#x3D; %x\n&quot;, i, ptr ); 
+printf(&quot;Value of var[%d] &#x3D; %d\n&quot;, i, *ptr ); 
+ptr++;
+i++;
+&#125; &#x2F;&#x2F;会输出 10 , 100 
+getchar();
+return 0; 
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<p>运行结果<br><img src="https://xckadpym.top/tuchuang/c/test01.png"><br>这里补充一点</p>
+<h4 id="C语言中-d-o-f-e-x-的含义补充说明"><a href="#C语言中-d-o-f-e-x-的含义补充说明" class="headerlink" title="C语言中 %d, %o, %f, %e, %x 的含义补充说明"></a>C语言中 %d, %o, %f, %e, %x 的含义补充说明</h4><table>
+<thead>
+<tr>
+<th>％d整型输出，％ld长整型输出</th>
+<th>％o以八进制数形式输出整数</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><b>％x<b>以十六进制数形式输出整数</td>
+<td>％o以八进制数形式输出整数</td>
+</tr>
+<tr>
+<td>％u以十进制数输出unsigned型数据(无符号数)</td>
+<td></td>
+</tr>
+<tr>
+<td>％c用来输出一个字符</td>
+<td>％s用来输出一个字符串</td>
+</tr>
+<tr>
+<td>％f用来输出实数，以小数形式输出</td>
+<td>％e以指数形式输出实数</td>
+</tr>
+<tr>
+<td>％g根据大小自动选f格式或e格式</td>
+<td>且不输出无意义的零。</td>
+</tr>
+</tbody></table>
+<h3 id="指针数组"><a href="#指针数组" class="headerlink" title="指针数组"></a>指针数组</h3><h4 id="基本介绍"><a href="#基本介绍" class="headerlink" title="基本介绍"></a>基本介绍</h4><p>要让数组的元素 指向 int 或其他数据类型的地址(指针)。可以使用指针数组</p>
+<h4 id="指针数组定义"><a href="#指针数组定义" class="headerlink" title="指针数组定义"></a>指针数组定义</h4><p>数据类型 *指针数组名[大小];</p>
+<ul>
+<li><p>比如: int *ptr[3];  // ptr 声明为一个指针数组 | 由 3 个整数指针组成。因此，ptr 中的每个元素，都是一个指向 int 值的指针。</p>
+<h4 id="指针数组快速入门-和-内存布局示意图"><a href="#指针数组快速入门-和-内存布局示意图" class="headerlink" title="指针数组快速入门 和 内存布局示意图"></a>指针数组快速入门 和 内存布局示意图</h4><pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt;
+const int MAX&#x3D;3;
+int main () &#123;
+int var[] &#x3D; &#123;10, 100, 200&#125;;
+int i, *ptr[3];
+for ( i &#x3D; 0; i &lt; MAX; i++)&#123;
+ptr[i] &#x3D; &amp;var[i];    &#x2F;* 赋值为整数的地址 *&#x2F; 
+&#125;
+&#x2F;&#x2F;指针数组来获取各个值 
+for ( i &#x3D; 0; i &lt; MAX; i++) &#123;
+printf(&quot;Value of var[%d] &#x3D; %d ptr[%d]本身的地址&#x3D;%p \n &quot;, i, *ptr[i] , i, &amp;ptr[i]); &#x2F;&#x2F; 10, 100, 200
+&#125;
+getchar(); 
+return 0;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+</li>
+</ul>
+<p>指针数组的内存布局<br>   <img src="https://xckadpym.top/tuchuang/c/ptr03.png"></p>
+<h4 id="指针数组应用实例"><a href="#指针数组应用实例" class="headerlink" title="指针数组应用实例"></a>指针数组应用实例</h4><p>   请编写程序，定义一个指向字符的指针数组来存储字符串列表(几首你喜欢的歌)，并通过遍历 该指针数组，显<br>   示字符串信息 ， (即:定义一个指针数组，该数组的每个元素，指向的是一个字符串)</p>
+<pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt;
+void main() &#123;
+&#x2F;&#x2F;定义一个指针数组，该数组的每个元素，指向的是一个字符串
+char *song[]&#x3D;&#123;
+&quot;那些花儿&quot;,&quot;9420&quot;,&quot;下山&quot;,&quot;世间美好与你环环相扣&quot;,&quot;那女孩儿对我说&quot;
+ &#125;;
+char *pStr&#x3D;&quot;abcde&quot;;
+&#x2F;&#x2F;遍历指针数组
+int i,len&#x3D;5;
+for(i&#x3D;0;i&lt;len;i++)&#123;
+printf(&quot;\nsong[%d]指向的字符串是&#x3D;%s pStr 指向的内容&#x3D;%s&quot;,i,song[i],pStr);
+&#125;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<p>运行结果：<br>  <img src="https://xckadpym.top/tuchuang/c/test02.png"></p>
+<h3 id="指向指针的指针-多重指针"><a href="#指向指针的指针-多重指针" class="headerlink" title="指向指针的指针(多重指针)"></a>指向指针的指针(多重指针)</h3><h4 id="基本介绍-1"><a href="#基本介绍-1" class="headerlink" title="基本介绍"></a>基本介绍</h4><p>  指向指针的指针是一种多级间接寻址的形式，或者说是一个指针链。通常，一个指针包含一个变量的地址。当我们定义一个指向指针的指针时，第一个指针包含了第二个指针的地址，第二个指针指向包含实际值的位置(如下 图):<br>   <img src="https://xckadpym.top/tuchuang/c/ptr04.png"></p>
+<h4 id="多重指针-二级-三级-快速入门案例"><a href="#多重指针-二级-三级-快速入门案例" class="headerlink" title="多重指针(二级,三级)快速入门案例"></a>多重指针(二级,三级)快速入门案例</h4><p>（1） 一个指向指针的指针变量必须如下声明，即在变量名前放置两个星号。例如，下面声明了一个指向 int 类型指针的指针:<br>     int **ptr;      // ptr 的类型是 int **<br>（2）当一个目标值被一个指针间接指向到另一个指针时，访问这个值需要使用两个星号运算符, 比如 **ptr</p>
+<h4 id="案例演示-内存布局图"><a href="#案例演示-内存布局图" class="headerlink" title="案例演示+内存布局图"></a>案例演示+内存布局图</h4><pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt;
+int main () &#123;
+int var;
+int *ptr; &#x2F;&#x2F;一级指针
+int **pptr; &#x2F;&#x2F;二级指针
+int ***ppptr; &#x2F;&#x2F; 三级指针
+var &#x3D; 10000;
+
+ptr &#x3D; &amp;var; &#x2F;&#x2F; var 变量的地址赋给 ptr
+
+pptr &#x3D; &amp;ptr;&#x2F;&#x2F; 表示将 ptr 存放的地址，赋给 pptr
+
+ppptr &#x3D; &amp;pptr; &#x2F;&#x2F; 表示将 pptr 存放的地址，赋给 ppptr
+
+printf(&quot;var 的地址&#x3D;%p var &#x3D; %d \n&quot;, &amp;var, var );&#x2F;&#x2F; 0x1122 10000
+printf(&quot;ptr 的本身的地址&#x3D;%p ptr 存放的地址&#x3D;%p *ptr &#x3D; %d \n&quot;, &amp;ptr, ptr, *ptr );
+printf(&quot;pptr 本身地址 &#x3D; %p pptr 存放的地址&#x3D;%p **pptr &#x3D; %d\n&quot;, &amp;pptr, pptr, **pptr);
+printf(&quot;ppptr 本身地址 &#x3D; %p ppptr 存放的地址&#x3D;%p ***pptr &#x3D; %d\n&quot;, &amp;ppptr, ppptr, ***ppptr);
+return 1;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+
+
+<p>运行结果：</p>
+<p>  <img src="https://xckadpym.top/tuchuang/c/test03.png"></p>
+<p>对应内存图（这是我自己绘的图，大概就是这个流程）：</p>
+<p>  <img src="https://xckadpym.top/tuchuang/c/test04.png"></p>
+<h4 id="传递指针-地址-给函数"><a href="#传递指针-地址-给函数" class="headerlink" title="传递指针(地址)给函数"></a>传递指针(地址)给函数</h4><p>  当函数的形参类型是指针类型时，是使用该函数时，需要传递指针，或者地址，或者数组给该形参</p>
+<h5 id="案例-1-传地址或指针给指针变量"><a href="#案例-1-传地址或指针给指针变量" class="headerlink" title="案例 1-传地址或指针给指针变量"></a>案例 1-传地址或指针给指针变量</h5><p>  代码演示</p>
+  <pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt;
+
+void test2(int *p); &#x2F;&#x2F;函数声明，接收 int * 
+void main() &#123;
+int num&#x3D;90;
+int *p &#x3D; &amp;num; &#x2F;&#x2F;将 num 的地址赋给 p 
+test2(&amp;num); &#x2F;&#x2F;传地址
+printf(&quot;\nmain() 中的 num&#x3D;%d&quot;, num); &#x2F;&#x2F; num &#x3D; 91 
+test2(p); &#x2F;&#x2F;传指针
+printf(&quot;\nmain() 中的 num&#x3D;%d&quot;, num);&#x2F;&#x2F; num &#x3D; 92
+&#125;
+void test2(int *p) &#123;
+
+*p +&#x3D; 1; &#x2F;&#x2F;*p 就访问 num 的值 
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h5 id="案例-2-传数组给指针变量"><a href="#案例-2-传数组给指针变量" class="headerlink" title="案例 2-传数组给指针变量"></a>案例 2-传数组给指针变量</h5><p>数组名本身就代表该数组首地址，因此传数组的本质就是传地址。</p>
+<pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt;
+double getAverage(int *arr, int size); &#x2F;&#x2F;函数声明
+int main ()&#123;
+
+int balance[5] &#x3D; &#123;1000, 2, 3, 17, 50&#125;; &#x2F;* 带有 5 个元素的整型数组 *&#x2F;
+
+double avg; &#x2F;* 传递一个指向数组的指针作为参数 *&#x2F;
+
+avg &#x3D; getAverage( balance, 5 ) ; &#x2F;* 输出返回值 *&#x2F;
+
+printf(&quot;Average value is: %f\n&quot;, avg );
+
+return 0;
+
+&#125;
+
+double getAverage(int *arr, int size)&#123;
+int i, sum &#x3D; 0; 
+double avg;
+
+ for (i &#x3D; 0; i &lt; size; ++i)&#123;
+ sum +&#x3D; arr[i];&#x2F;&#x2F; arr[0] &#x3D;&gt;数组第一个元素的地址 arr[1]
+ printf(&quot;\narr 存放的地址&#x3D;%p &quot;, arr);
+
+ &#125;
+ avg &#x3D; (double)sum &#x2F; size;
+ return avg; 
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<p>运行结果<br>  <img src="https://xckadpym.top/tuchuang/c/test05.png"></p>
+<p>  画个内存图吧，好吧整一个<br>    <img src="https://xckadpym.top/tuchuang/c/02.png"><br>  其实看着这段代码，这么大一片，感觉有点复杂，其实很简单，上面我也花了内存图，我来解释一下，首先就是<br>  申明一个函数，当然这个函数可以在main（）函数里面，也可以在main函数外面（本段案例就是在main函数之外申明的），<br>  如果🚫不想申明函数，就把自定义函数放在main函数前面，这段代码主要是通过定义一个数组，把他的地址指向一个指针，<br>  用过double getAverage（）这个自定义函数，传递指针地址，并且求这个数组存放的元素的平均值，并赋值给avg。<br>  通过这个案例，我们就可以很详细的明白 <b> 传数组给指针变量 <b>的一个过程</p>
+<p>   <img src="https://xckadpym.top/tuchuang/c/01.jpg" alt="让我仔细想想"></p>
+<h4 id="返回指针的函数"><a href="#返回指针的函数" class="headerlink" title="返回指针的函数"></a>返回指针的函数</h4><h5 id="请编写一个函数-strlong-，返回两个字符串中较长的一个。"><a href="#请编写一个函数-strlong-，返回两个字符串中较长的一个。" class="headerlink" title="请编写一个函数 strlong()，返回两个字符串中较长的一个。"></a>请编写一个函数 strlong()，返回两个字符串中较长的一个。</h5>   <pre class="line-numbers language-c" data-language="c"><code class="language-c">#include &lt;stdio.h&gt; 
+#include &lt;string.h&gt;
+char *strlong(char *str1, char *str2)&#123; &#x2F;&#x2F;函数返回的 char * (指针)
+printf(&quot;\nstr1 的长度%d str2 的长度%d&quot;, strlen(str1), strlen(str2));
+
+if(strlen(str1) &gt;&#x3D; strlen(str2))&#123; 
+return str1;
+&#125;else&#123;
+return str2;
+&#125;
+ &#125;
+
+int main()&#123;
+char str1[30], str2[30], *str;   &#x2F;&#x2F;str 是一个指针类型，指向一个字符串 
+printf(&quot;\n 请输入第1个字符串&quot;);
+gets(str1);
+printf(&quot;\n 请输入第2个字符串&quot;);
+gets(str2);
+str &#x3D; strlong(str1, str2);
+printf(&quot;\nLonger string: %s \n&quot;, str);
+return 0;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<p>   运行结果<br>     <img src="https://xckadpym.top/tuchuang/c/test06.png"></p>
+<h3 id="指针函数注意事项和细节"><a href="#指针函数注意事项和细节" class="headerlink" title="指针函数注意事项和细节"></a>指针函数注意事项和细节</h3>]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>c语言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>C语言二级题目</title>
+    <url>/2020/08/16/cyuyanerjitimu/</url>
+    <content><![CDATA[<div class="note"><p>文章摘要</p></div>
+<h3 id="今天开始分享未来教育C语言二级真题"><a href="#今天开始分享未来教育C语言二级真题" class="headerlink" title="今天开始分享未来教育C语言二级真题"></a>今天开始分享未来教育C语言二级真题</h3> <a id="more"></a>
+<h3 id="（注：这些都是我自己的方法，可能有一些错误，如果大家发现错误，欢迎大家O-∩-∩-O吐槽-指正）"><a href="#（注：这些都是我自己的方法，可能有一些错误，如果大家发现错误，欢迎大家O-∩-∩-O吐槽-指正）" class="headerlink" title="（注：这些都是我自己的方法，可能有一些错误，如果大家发现错误，欢迎大家O(∩_∩)O吐槽~ 指正）"></a>（注：这些都是我自己的方法，可能有一些错误，如果大家发现错误，欢迎大家O(∩_∩)O吐槽~ 指正）</h3><h2 id="一-真考试卷1"><a href="#一-真考试卷1" class="headerlink" title="一.真考试卷1"></a>一.真考试卷1</h2><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/1a01.png"></p>
+<h4 id="源代码"><a href="#源代码" class="headerlink" title="源代码"></a>源代码</h4> <pre class="line-numbers language-c" data-language="c"><code class="language-c">#include&lt;string.h&gt;
+#include&lt;stdio.h&gt;
+#define N 80
+int fun(char *s)
+&#123;
+
+&#125;
+void main()
+&#123; 
+  FILE *wf;
+  char line[N]; 
+  int num&#x3D;0;
+  printf(&quot;Enter a string:\n &quot;); 
+  gets(line);
+  num&#x3D;fun(line);
+  printf(&quot;The number of word is:%d\n\n &quot;,num);
+&#x2F;******************************&#x2F;
+  wf&#x3D;fopen(&quot;out.dat&quot;,&quot;w&quot;);
+  fprintf(wf,&quot;%d&quot;,fun(&quot;a big car&quot;));
+  fclose(wf);
+&#x2F;*****************************&#x2F;
+&#125;
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h4 id="参考答案"><a href="#参考答案" class="headerlink" title="参考答案"></a>参考答案</h4><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/1a01a.png"></p>
+<h4 id="我的方法一"><a href="#我的方法一" class="headerlink" title="我的方法一"></a>我的方法一</h4><pre class="line-numbers language-c" data-language="c"><code class="language-c">int fun (char *s)&#123;
+    char *p&#x3D;NULL;
+ &#x2F;&#x2F;首先定义一个char型指针类型变量，并赋初始值，这一点很重要
+    int i, j;
+    j&#x3D;1;
+    p&#x3D;s;
+    for (i&#x3D;0;i&lt;80;i++) &#123;
+ &#x2F;&#x2F;这里i&lt;80主要我觉得N define为80， 就按最大的
+   *p++;
+ &#x2F;&#x2F;代表每次增加4个字节，取下一-位字符
+    if(*p&#x3D;&#x3D;’&#39;)&#123;
+     j++;
+     &#125;
+return j;
+
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h4 id="运行结果"><a href="#运行结果" class="headerlink" title="运行结果"></a>运行结果</h4><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/1a01a.png"></p>
+<h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><pre class="line-numbers language-c" data-language="c"><code class="language-c">int fun (char *s)&#123;
+    char str[80];
+    j&#x3D;1;
+    strcpy(str,s);
+    &#x2F;&#x2F;将字符串s拷贝到str，剩余跟上面差不多
+    for(i&#x3D;0;i&lt;80;i++)&#123;
+        if(str[i]&#x3D;&#x3D;&#39; &#39;)&#123;
+            j++;
+        &#125;
+    &#125;
+    return j;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+
+
+<h4 id="运行结果-1"><a href="#运行结果-1" class="headerlink" title="运行结果"></a>运行结果</h4><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/1a05.png"></p>
+<h2 id="二-真考试卷2"><a href="#二-真考试卷2" class="headerlink" title="二.真考试卷2"></a>二.真考试卷2</h2><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/2a01.png"></p>
+<h4 id="源代码-1"><a href="#源代码-1" class="headerlink" title="源代码"></a>源代码</h4><pre class="line-numbers language-c" data-language="c"><code class="language-c">#include&lt;stdio.h&gt;
+#include&lt;string.h&gt;
+#include&lt;conio.h&gt;
+#include&lt;stdlib.h&gt;
+#define N 10
+typedef struct ss
+&#123; char num[10]; 
+  int s;
+&#125; STU;
+void fun(STU a[], STU *s)
+&#123;
+
+&#125;
+void main()
+&#123; 
+  FILE *wf;
+  STU a[N]&#x3D;&#123;&#123; &quot;A01&quot;,81&#125;,&#123; &quot;A02&quot;,89&#125;,&#123; &quot;A03&quot;,66&#125;,&#123; &quot;A04&quot;,87&#125;,&#123; &quot;A05&quot;,77&#125;,
+  &#123; &quot;A06&quot;,90&#125;,&#123; &quot;A07&quot;,79&#125;,&#123; &quot;A08&quot;,61&#125;,&#123; &quot;A09&quot;,80&#125;,&#123; &quot;A10&quot;,71&#125;&#125;,m;
+  int i;
+  system(&quot;CLS&quot;);
+  printf(&quot;*****The original data*****\n&quot;);
+  for(i&#x3D;0;i&lt;N;i++) 
+    printf(&quot;No&#x3D;%s Mark&#x3D;%d\n&quot;, a[i].num,a[i].s);
+  fun(a,&amp;m);
+  printf(&quot;*****THE RESULT*****\n&quot;);
+  printf(&quot;The lowest :%s, %d\n&quot;,m.num,m.s);
+&#x2F;******************************&#x2F;
+  wf&#x3D;fopen(&quot;out.dat&quot;,&quot;w&quot;);
+  fprintf(wf,&quot;%s, %d&quot;,m.num,m.s);
+  fclose(wf);
+&#x2F;*****************************&#x2F;
+&#125;
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h4 id="参考答案-1"><a href="#参考答案-1" class="headerlink" title="参考答案"></a>参考答案</h4><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/2a03.png"></p>
+<h4 id="我的方法-使用冒泡排序算法求解-gt"><a href="#我的方法-使用冒泡排序算法求解-gt" class="headerlink" title="我的方法 使用冒泡排序算法求解&gt;"></a>我的方法 <font color=red>使用冒泡排序算法求解</font>&gt;</h4><pre class="line-numbers language-c" data-language="c"><code class="language-c">void fun(STU a[], STU *s)
+&#123;
+  int i,j;
+  for(i&#x3D;0;i&lt;N;i++)&#123;
+      for(j&#x3D;0;j&lt;N-i;j++)&#123;
+          if(a[i].s&gt;a[j].s)&#123;
+          int temp;
+          temp&#x3D;a[i].s;
+          a[i].s&#x3D;a[j].s;
+          a[j].s&#x3D;temp;
+          *s&#x3D;a[i];
+          &#125;
+      &#125;
+  &#125;
+  &#x2F;* 我这里使用了冒泡排序算法，因为我没有学过链表，而且我觉得一般C语言二级链表考的少
+  大家把这个冒泡排序算法记住即可，值得注意的是 这里定义的结构体typedef struct ss STU
+  s变量是int类型，所以最后冒泡排序中应该是a[i].s
+  *&#x2F;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h4 id="运行结果-2"><a href="#运行结果-2" class="headerlink" title="运行结果"></a>运行结果</h4><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/2a02.png"></p>
+<h2 id="三-真考试卷3"><a href="#三-真考试卷3" class="headerlink" title="三.真考试卷3"></a>三.真考试卷3</h2><h4 id="真题试题三，答案给的详细，这里贴上题目和参考答案"><a href="#真题试题三，答案给的详细，这里贴上题目和参考答案" class="headerlink" title="真题试题三，答案给的详细，这里贴上题目和参考答案"></a>真题试题三，答案给的详细，这里贴上题目和参考答案</h4><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/3a01.png"></p>
+<h4 id="参考答案-2"><a href="#参考答案-2" class="headerlink" title="参考答案"></a>参考答案</h4><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/3a02.png"></p>
+<h2 id="四-真考试卷4"><a href="#四-真考试卷4" class="headerlink" title="四.真考试卷4"></a>四.真考试卷4</h2><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/4a01.png"></p>
+<h4 id="参考答案-3"><a href="#参考答案-3" class="headerlink" title="参考答案"></a>参考答案</h4><h4 id="源代码-2"><a href="#源代码-2" class="headerlink" title="源代码"></a>源代码</h4><pre class="line-numbers language-c" data-language="c"><code class="language-c">#include&lt;stdio.h&gt;
+#include&lt;conio.h&gt;
+#include&lt;stdlib.h&gt;
+#define  N  5
+double fun (int w[][N])
+&#123;
+
+&#125;
+void main()
+&#123;
+  FILE *wf;
+  int a[N][N]&#x3D;&#123;0,1,2,7,9,1,9,7,4,5,2,3,8,3,1,4,5,6,8,2,5,9,1,4,1&#125;;
+  int i, j;
+  double s;
+  system(&quot;CLS&quot;);
+  printf(&quot;*****The array*****\n &quot;);
+  for (i&#x3D;0; i&lt;N; i++)
+    &#123; for (j&#x3D;0;j&lt;N;j++)
+         &#123;printf(&quot;%4d &quot;,a[i][j]);&#125;
+      printf(&quot;\n &quot;);
+    &#125;
+  s&#x3D;fun(a);
+  printf(&quot;*****THE RESULT*****\n &quot;);
+  printf(&quot;The sum is : %lf\n &quot;,s);
+&#x2F;******************************&#x2F;
+  wf&#x3D;fopen(&quot;out.dat&quot;,&quot;w&quot;);
+  fprintf (wf,&quot;%lf&quot;,s);
+  fclose(wf);
+&#x2F;*****************************&#x2F;
+&#125;
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+
+
+<p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/4a02.png"></p>
+<h4 id="我的方法"><a href="#我的方法" class="headerlink" title="我的方法"></a>我的方法</h4><pre class="line-numbers language-c" data-language="c"><code class="language-c">double fun (int w[][N])
+&#123;
+    int i,j;
+    double s&#x3D;0;
+    double res;
+    for(i&#x3D;0;i&lt;N;i++)&#123;
+        for(j&#x3D;0;j&lt;N;j++)&#123;
+            if(j&#x3D;&#x3D;0||j&#x3D;&#x3D;4)&#123;
+                s+&#x3D;w[i][j];
+            &#125;else if(i&#x3D;&#x3D;0||i&#x3D;&#x3D;4)&#123;
+                s&#x3D;s+w[i][j+1];
+            &#125;
+        &#125;
+ &#125;
+ res&#x3D;s&#x2F;16;
+ return res;
+&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h4 id="运行结果-3"><a href="#运行结果-3" class="headerlink" title="运行结果"></a>运行结果</h4><p><img src="https://xckadpym.top/tuchuang/C%E8%AF%AD%E8%A8%80%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/4a03.png"></p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>二级C</tag>
+      </tags>
+  </entry>
+</search>
